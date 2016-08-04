@@ -1,0 +1,24 @@
+{
+    "author": "criiisperez@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "testdatp",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "TestDatp",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "57558265-829f-45fe-80b4-8272094dc76c",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
